@@ -1,0 +1,41 @@
+"","Sourced","Placed","References","Value","Part Number","Part Link","Price","Quantity"
+1,"","","C1, C7, C8, C9, C10, C11, C14, C15, C16, C17, C18, C19","1nF","CL10B102KB8NNNC","https://ozdisan.com/Product/Detail/11971/CL10B102KB8NNNC",0.006,12
+2,"","","C2, C13, C21, C22, C25, C27","100nF","CC0603KRX7R9BB104","https://ozdisan.com/Product/Detail/476015/CC0603KRX7R9BB104",0.006,6
+3,"","","C3, C4, C5, C6, C12","220uF 25V","TMP221M1EE11M","https://ozdisan.com/Product/Detail/404352/TMP221M1EE11M",0.06,5
+4,"","","C24, C26","2.2uF","CL10A225KQ8NNNC","https://www.ozdisan.com/Product/Detail/401994/CL10A225KQ8NNNC",0.01,2
+5,"","","C20","22uF 6.3V","CL10A226MQ8NRNC","https://ozdisan.com/Product/Detail/431703/CL10A226MQ8NRNC",0.038,1
+6,"","","C23","470uF 10V","PKLH-010V471ME110-T2.5","https://ozdisan.com/Product/Detail/1046555/PKLH-010V471ME110-T2-5",0.05,1
+7,"","","R6, R8, R10, R11, R13, R14, R15, R18, R20, R22, R24, R27, R28, R34, R35, R37, R38, R40, R42","10K","0603SAF1002T5E","https://ozdisan.com/Product/Detail/341790/0603SAF1002T5E",0.0015,19
+8,"","","R1, R2, R7, R9, R12, R16, R21, R26, R30, R31, R44, R45, R46","4.7K","RC0603FR-074K7L","https://ozdisan.com/Product/Detail/494590/RC0603FR-074K7L",0.0018,13
+9,"","","R19, R23, R29, R32","100K","0603SAF1003T5E","https://ozdisan.com/Product/Detail/339374/0603SAF1003T5E",0.0015,4
+10,"","","R25, R33, R36","1K","0603SAF1001T5E","https://ozdisan.com/Product/Detail/341789/0603SAF1001T5E",0.0015,3
+11,"","","R4, R5","10R","CQ03SAF100JT5E","https://ozdisan.com/Product/Detail/587941/CQ03SAF100JT5E",0.002,2
+12,"","","R17","100R","0603SAF1000T5E","https://ozdisan.com/Product/Detail/341784/0603SAF1000T5E",0.0015,1
+13,"","","R39","3K","0603SAF3001T5E","https://ozdisan.com/Product/Detail/339378/0603SAF3001T5E",0.0015,1
+14,"","","R41","16K","0603SAF1602T5E","https://ozdisan.com/Product/Detail/359801/0603SAF1602T5E",0.0015,1
+15,"","","R43","0R","0603SAF0000T5E","https://ozdisan.com/Product/Detail/352049/0603SAF0000T5E",0.0015,1
+16,"","","L1","10uH 2.25A","NR6028-100M","https://ozdisan.com/Product/Detail/529366/NR6028-100M",0.16,1
+17,"","","D2, D3, D5, D6","LedAir, Led3V3, LedPWM2, LedPWM","HL-PSC-2012H233W-HF4","https://ozdisan.com/Product/Detail/490003/HL-PSC-2012H233W-HF4",0.024,4
+18,"","","D1, D4","MM3Z12","MM3Z12-HT","https://ozdisan.com/Product/Detail/581368/MM3Z12-HT",0.025,2
+19,"","","D7, D8","SMBJ26CA","SMBJ26CA-HT","https://ozdisan.com/Product/Detail/503708/SMBJ26CA-HT",0.1,2
+20,"","","U3, U4, U5, U6","Stepper Breakout","MSK.STP.01.000018","https://www.motorobit.com/tmc2209-v20-step-motor-surucusu",6.4,4
+21,"","","U9, U11","SN74LVC1T45DBV","SN74LVC1T45DBVT","https://ozdisan.com/Product/Detail/616843/SN74LVC1T45DBVT",0.7,2
+22,"","","U1","SMF05CT1G","SMF05CT1G","https://www.ozdisan.com/Product/Detail/575537/SMF05CT1G",0.18,1
+23,"","","U2","CH340E"," C99652","https://www.lcsc.com/product-detail/USB-ICs_WCH-Jiangsu-Qin-Heng-CH340E_C99652.html",0.55,1
+24,"","","U7","ESP32","ESP32-WROOM-32UE-N4.ESP","https://www.empastore.com/esp32-wroom-32ue-n4-wifi-bluetooth-modul",3.45,1
+25,"","","U8","AP7366","AP7366EA-33W5-7","https://www.digikey.com/en/products/detail/diodes-incorporated/AP7366EA-33W5-7/18635685",0.138,1
+26,"","","U10","AP63201","AP63201WU-7","https://ozdisan.com/Product/Detail/1060556/AP63201WU-7",0.4,1
+27,"","","F3, F4","100mA 15V","FSMD010-0603-R","https://ozdisan.com/Product/Detail/470708/FSMD010-0603-R",0.1,2
+28,"","","F1","1.1A 6V","KLM2S110RY","https://ozdisan.com/Product/Detail/490835/KLM2S110RY",0.085,1
+29,"","","SW1","SW_Reset","L-KLS7-TS6606-5.0-180","https://ozdisan.com/Product/Detail/462867/L-KLS7-TS6606-5-0-180",0.08,1
+30,"","","Q2, Q4, Q5, Q6, Q7, Q8, Q9, Q10","PJA3440","PJA3440_R2_00001","https://ozdisan.com/Product/Detail/517995/PJA3440R200001",0.1,8
+31,"","","Q1, Q3","IRF4905","IRF4905STRLPBF","https://ozdisan.com/Product/Detail/612241/IRF4905STRLPBF",1.3,2
+32,"","","RN1, RN2","1K","4D03WGF1001T5E","https://ozdisan.com/Product/Detail/423589/4D03WGF1001T5E",0.017,2
+33,"","","J4, J5, J7, J8, J10, J11, J12, J14, J31","E_J2, E_J1, Z_J1, Z_J2, Y_J1, X_J1, Y_J2, X_J2, UART","DS1069-2MVW6X","https://ozdisan.com/Product/Detail/347994/DS1069-2MVW6X",0.01,9
+34,"","","J15, J16, J24, J25, J26, J27, J28, J29, J30","AnIn, AirSW, Z_LIM1, Z_LIM2, Y_LIM1, X_LIM1, Y_LIM2, X_LIM2, Probe","L-KLS1-2.50-03-S","https://ozdisan.com/Product/Detail/456067/L-KLS1-2-50-03-S",0.018,9
+35,"","","J3, J6, J9, J13","E_Stepper, Z_Stepper, X_Stepper, Y_Stepper","DS1069-4MVW6X","https://ozdisan.com/Product/Detail/347998/DS1069-4MVW6X",0.02,4
+36,"","","J17, J18, J19","PWM2_Drive, 5V FAN","DS1069-2MVW6X","https://ozdisan.com/Product/Detail/347994/DS1069-2MVW6X",0.01,3
+37,"","","J21, J23","PowerIn, EmStop","ZB2EDGV-5.08-2P","https://ozdisan.com/Product/Detail/1042573/ZB2EDGV-5-08-2P",0.045,2
+38,"","","J2","USB_C","nc","https://robiz.net/typec16pin?search=type-c&description=true",0.2,1
+39,"","","J20","Micro_SD_Card_Det1","112I-TA01","https://ozdisan.com/Product/Detail/637838/112I-TA01",1,1
+40,"","","J22","AirOut","15EDGVC-3.5-02P-12-00AH","https://ozdisan.com/Product/Detail/707708/15EDGVC-3-5-02P-12-00AH",0.1,1

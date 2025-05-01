@@ -1,0 +1,261 @@
+(footprint "L_CoreMaster_NR6028"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "INDUCTOR POWER 10UH 6X6MM 2.25A SM %20")
+	(tags "Inductor SMD")
+	(property "Reference" "REF**"
+		(at 0 -4.38 0)
+		(layer "F.SilkS")
+		(uuid "12cd3849-d6bd-440f-8d8f-5e20cf232881")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "10uH 2.25A"
+		(at -0.1 0.1 90)
+		(layer "F.Fab")
+		(uuid "e7428291-6d67-45d5-b66d-a8ca2e5ee930")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85405865-f793-4c2d-837b-331e47794f9c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "INDUCTOR POWER 10UH 6X6MM 2.25A SMD"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d1522f6-a920-4f5f-afd1-57d205bc8b5c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "0.16"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d2570837-3704-4215-8b16-232f06e34262")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Pad" "6x6x2.8"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7a25ab1b-958b-4f7c-8381-06c74f37401d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Link" "https://ozdisan.com/Product/Detail/529366/NR6028-100M"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a095155b-bf5f-447c-82b7-c0cd10675969")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Number" "NR6028-100M"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92a0a547-ddb2-4189-bcfb-846fc7c20afd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b578000-b82e-421f-85d6-604902f3655f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.4 -3.2)
+		(end -3.4 -2.57)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cbeb2651-544c-44d7-9ae6-5f085e15a40a")
+	)
+	(fp_line
+		(start -3.4 -3.2)
+		(end 3.4 -3.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a42a707b-8dc6-4b4a-98d9-61b614549e5e")
+	)
+	(fp_line
+		(start -3.4 3.23)
+		(end -3.4 2.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a6e47a23-0e98-4ef9-9fa4-da41ac54d7f3")
+	)
+	(fp_line
+		(start 3.4 -3.2)
+		(end 3.4 -2.57)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "769ee972-611c-4775-b42b-2d6a9b7378be")
+	)
+	(fp_line
+		(start 3.4 3.23)
+		(end -3.4 3.23)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f05be31d-78f5-414b-9828-4b7e62f7a232")
+	)
+	(fp_line
+		(start 3.4 3.23)
+		(end 3.4 2.6)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ced93308-a696-497a-b5a9-e552302d50e8")
+	)
+	(fp_rect
+		(start -3.4 -3.2)
+		(end 3.4 3.2)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "dba555d2-d34a-4b3d-94dc-380fb438be5c")
+	)
+	(fp_rect
+		(start -3 -3)
+		(end 3 3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "08c6eaa9-41b4-4418-8034-dffa742d1aa5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "0aa641ac-2562-449c-9584-200b95c31fba")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.3 0)
+		(size 1.8 5.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "ea29536e-4400-4077-921f-6f98ad787f08")
+	)
+	(pad "2" smd rect
+		(at 2.3 0)
+		(size 1.8 5.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "c1abbc91-c3ea-4f36-abb3-c474d543dc00")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Libraries/shapes3D/NR6028T.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

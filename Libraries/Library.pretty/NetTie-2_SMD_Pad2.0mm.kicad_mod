@@ -1,0 +1,107 @@
+(footprint "NetTie-2_SMD_Pad2.0mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Net tie, 2 pin, 2.0mm square SMD pads")
+	(tags "net tie")
+	(property "Reference" "REF**"
+		(at 0 -2.000001 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f13c952d-1c81-4952-a7fa-2ef24f20dfb9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "NetTie_2"
+		(at 0 2.000001 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "97f14e19-a352-4c08-9a84-b833bd30c2f3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d4caea06-6448-449c-b7cf-37c8dc8d3535")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Net tie, 2 pins"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ea676318-0ac2-44ca-a698-ab9d174c12bb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+	(net_tie_pad_groups "1, 2")
+	(fp_poly
+		(pts
+			(xy -2 -1) (xy 2 -1) (xy 2 1) (xy -2 1)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "859988e6-b2d3-4660-8873-16de689d5d96")
+	)
+	(pad "1" smd circle
+		(at -2.000001 0)
+		(size 2 2)
+		(layers "F.Cu")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "88fa7409-f718-4bd3-be47-0922b331efa5")
+	)
+	(pad "2" smd circle
+		(at 2.000001 0)
+		(size 2 2)
+		(layers "F.Cu")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "fc28060f-dbd6-4134-9c1e-894c19082054")
+	)
+	(embedded_fonts no)
+)
